@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.RJ1002" name="RJ1002" version="0.0.1" provider-name="RJGamer1002">
-	<extension point="xbmc.addon.repository" name="RJ1002 Repository">
+<addon id="repository.kodiR102" name="kodiR102" version="0.0.1" provider-name="RJGamer1002">
+	<extension point="xbmc.addon.repository" name="kodiR102 Repository">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
 		</dir>
-		<info compressed="false">https://raw.githubusercontent.com/RJGamer1002/repository.RJ1002/master/zips/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/RJGamer1002/repository.RJ1002/master/zips/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/RJGamer1002/repository.RJ1002/master/zips/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/RJGamer1002/repository.kodiR102/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/RJGamer1002/repository.kodiR102/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/RJGamer1002/repository.kodiR102/master/zips/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">just my repo for kodi</summary>
