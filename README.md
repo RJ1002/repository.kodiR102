@@ -1,5 +1,5 @@
-# repository.RJ1002
-RJ1002 repo
+# repository.kodiR102
+kodiR102 repo
 
 this is a repo for kodi.
 
