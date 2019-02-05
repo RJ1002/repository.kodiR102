@@ -149,31 +149,19 @@ This is a Non-profit resource, organized solely for educational purposes which i
 <addon id="repository.exodusredux" name="Exodus Redux Repo" version="0.0.7" provider-name="I-A-C">
 	<extension point="xbmc.addon.repository" name="Exodus Redux Repo">
 	<dir>
-        	<info compressed="false">https://raw.githubusercontent.com/I-A-C/zips/master/addons.xml</info>
-        	<checksum>https://raw.githubusercontent.com/I-A-C/zips/master/addons.xml.md5</checksum>
-        	<datadir zip="true">https://raw.githubusercontent.com/I-A-C/zips/master/</datadir>
+        <info compressed="false">https://raw.githubusercontent.com/I-A-C/zips/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/I-A-C/zips/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/I-A-C/zips/master/</datadir>
 	</dir>
 	<dir>
-	<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
-	<checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
-	<datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
 	</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Exodus Redux is a educational add-on. We do not host any of the contents streamed.</summary>
 		<description lang="en"></description>
-		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="script.exodus.artwork" version="1.0.8" name="Exodus Artwork" provider-name="Exodus">
-	<requires>
-		<import addon="xbmc.python" version="2.19.0"/>
-	</requires>
-	<extension point="xbmc.python.module" library="lib" />
-	<extension point="xbmc.addon.metadata">
-		<summary>Themes for the Exodus Addon</summary>
-		<description></description>
 		<platform>all</platform>
 	</extension>
 </addon>
